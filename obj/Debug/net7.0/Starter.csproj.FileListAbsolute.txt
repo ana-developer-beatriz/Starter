@@ -1,0 +1,14 @@
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.exe
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.dll
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.dll
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\vostro5471\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\ref\Starter.dll
